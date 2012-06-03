@@ -1,0 +1,15 @@
+h2. Redmine linked time entries plugin
+
+Plugin adds links to issues at time entries report.
+
+h3. Compatibility
+
+Plugin was tested on Redmine v1.4.2stable
+Plugin patches *views\timelog\_report_criteria.html.erb* view.
+
+h3. History
+
+0.0.1
+
+* First public release
+
